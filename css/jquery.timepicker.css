@@ -1,4 +1,4 @@
-.ui-timepicker-wrapper {
+/*.ui-timepicker-wrapper {
 	overflow-y: auto;
 	max-height: 150px;
 	width: 6.5em;
@@ -10,7 +10,7 @@
 	outline: none;
 	z-index: 10001;
 	margin: 0;
-}
+}*/
 
 .ui-timepicker-wrapper.ui-timepicker-with-duration {
 	width: 13em;
